@@ -1,4 +1,4 @@
-function funcionsumar ( parametro ){
+function funcionsumar (){
     var a = prompt("Ingrese el valor de a");
     if (confirm);
     var b = prompt("Ingrese el valor de b");
@@ -6,7 +6,7 @@ function funcionsumar ( parametro ){
     var resultado = a + b;
     prompt ("La suma de a + b es: " + resultado);
 }
-function funcionrestar ( parametro ){
+function funcionrestar (){
     var a = prompt("Ingrese el valor de a");
     if (confirm);
     var b = prompt("Ingrese el valor de b");
@@ -14,7 +14,7 @@ function funcionrestar ( parametro ){
     var resultado = (a - b);
     prompt ("La suma de a - b es: " + resultado);
 }
-function funcionmultiplicar ( parametro ){
+function funcionmultiplicar (){
     var a = prompt("Ingrese el valor de a");
     if (confirm);
     var b = prompt("Ingrese el valor de b");
@@ -22,7 +22,7 @@ function funcionmultiplicar ( parametro ){
     var resultado = (a * b);
     prompt ("La suma de a * b es: " + resultado);
 }
-function funciondividir ( parametro ){
+function funciondividir (){
     var a = prompt("Ingrese el valor de a");
     if (confirm);
     var b = prompt("Ingrese el valor de b");
